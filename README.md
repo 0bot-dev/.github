@@ -6,7 +6,7 @@
 
 ## 🎯 Vision
 
-**0bot** aims to let ordinary users quickly get their own personal AI assistant — base on [Moltbot](https://github.com/...) (formerly Clawdbot) — with zero setup. From zero to your own agent. ✨
+**0bot** aims to let ordinary users quickly get their own personal AI assistant — based on [Moltbot](https://github.com/...) (formerly Clawdbot) — with zero setup. From zero to your own agent. ✨
 
 More details to be added.
 

@@ -6,7 +6,7 @@
 
 ## 🎯 愿景
 
-**0bot** 旨在让普通用户快速获得自己的个人 AI 助手——基于 [Moltbot](https://github.com/...)（以前的 Clawdbot）——零配置。从零到拥有自己的智能助手。✨
+**0bot** 旨在让普通用户快速获得自己的个人 AI 助手 — 基于 [Moltbot](https://github.com/...)（以前的 Clawdbot）— 零配置。从零到拥有自己的智能助手。✨
 
 更多详情待补充。
 
